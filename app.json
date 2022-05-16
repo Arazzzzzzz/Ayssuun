@@ -9,7 +9,7 @@
         "pytgcalls",
         "tgvcbot"
     ],
-    "repository": "https://github.com/kursadHD/TgMusicBot",
+    "repository": "https://github.com/Arazzzzzzz/Ayssuun",
     "stack": "container",
     "env": {
         "SESSION": {
